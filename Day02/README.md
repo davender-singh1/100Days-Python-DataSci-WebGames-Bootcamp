@@ -7,7 +7,7 @@ Format the result to 2 decimal places = 33.60
 Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 
-Day2-Task1
+## Day2-Task1
 Instructions:
 Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 
@@ -20,7 +20,7 @@ Example 1 Output
 12
 
 
-Day2-Task2:
+## Day2-Task2:
 Instructions
 Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
 
@@ -40,7 +40,7 @@ Example Output 1
 Since: 80 ÷ (1.75 x 1.75) = 26.122448979591837
 
 
-Day2-Task3
+## Day2-Task3
 Instructions:
 I was reading this article by Tim Urban - Your Life in Weeks and realised just how little time we actually have.
 
