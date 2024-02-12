@@ -19,3 +19,9 @@ Project - Rock Paper Scissor
 - [Day05](./Day05)
 
 Project - Password Generator
+
+- [Day06](./Day06)
+
+
+
+- [Day07](./Day07)
